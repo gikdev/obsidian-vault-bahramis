@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "72f3548629a513cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b5c836073a92d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f81d88112851c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b4551dec3f7b3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "83dc1f7bbf1663e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e08dd4d5f42296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f8743823b925fe7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06f0350bfa26d84c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "a0c930bed40bad8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcab9faaf4aefae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d230b4f987e90b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AurioGold/Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tasks"
+            }
+          },
+          {
+            "id": "24001e422c67c8b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mini Course/Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Structure"
+            }
+          },
+          {
+            "id": "49f334071ff0498e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae4f27ef479a0abf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mini Course/Structure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Structure"
+            }
+          },
+          {
+            "id": "36afa3afd2b42766",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "711fa7125969c45f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "12f81d88112851c5",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2025-08-12.md",
+    "AurioGold/Tasks.md",
+    "AurioGold/Tests.md",
+    "Mini Course/What we can build.md",
+    "Mini Course/Structure.md",
+    "Mini Course/Side Stuff.md",
+    "Mini Course/Paths to money.md",
+    "Mini Course/Notes.md",
+    "Mini Course/Help Them.md",
+    "AurioGold",
+    "Mini Course",
+    "Welcome.md"
+  ]
+}

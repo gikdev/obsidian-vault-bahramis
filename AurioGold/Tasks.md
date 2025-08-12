@@ -1,0 +1,3 @@
+- [x] Get builds (and then tell PM)
+- [ ] Write the new view
+- [ ] Test the flow (new client, new product, the client purchase the product, check it's remaining)
