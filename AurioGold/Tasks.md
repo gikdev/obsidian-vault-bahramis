@@ -1,3 +1,10 @@
 - [x] Get builds (and then tell PM)
 - [ ] Write the new view
+	- [ ] Refactor the current component
+	- [ ] Add the new view btn
+	- [ ] Set `@tanstack/react-query` up
+	- [ ] Config `hey-api` to also have `tanstack query` stuff!
+	- [ ] Render the components... (use query???)
+	- [ ] Wire the btns up
+	- [ ] Final refactor/cleanup
 - [ ] Test the flow (new client, new product, the client purchase the product, check it's remaining)
