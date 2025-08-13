@@ -1,7 +1,7 @@
 - [x] Get builds (and then tell PM)
 - [ ] Write the new view
-	- [ ] Refactor the current component
-	- [ ] Add the new view btn
+	- [x] Refactor the current component ⭐
+	- [x] Add the new view btn
 	- [ ] Set `@tanstack/react-query` up
 	- [ ] Config `hey-api` to also have `tanstack query` stuff!
 	- [ ] Render the components... (use query???)
