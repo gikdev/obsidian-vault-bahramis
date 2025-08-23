@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "55d3344b60641f75",
+        "id": "a2165e5aff10b103",
         "type": "tabs",
         "children": [
           {
-            "id": "5da05ae2d7463fc0",
+            "id": "c1df1d6e1a57afc9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da05ae2d7463fc0",
+  "active": "c1df1d6e1a57afc9",
   "lastOpenFiles": [
     "Front-End Web Developer Ecosystem Map.md",
     "Mini Course/What we can build.md",
