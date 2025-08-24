@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2165e5aff10b103",
+        "id": "9ac0462ff013d349",
         "type": "tabs",
         "children": [
           {
-            "id": "c1df1d6e1a57afc9",
+            "id": "78cdea580272ecfe",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Front-End Web Developer Ecosystem Map.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Front-End Web Developer Ecosystem Map"
             }
           }
         ]
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1df1d6e1a57afc9",
+  "active": "78cdea580272ecfe",
   "lastOpenFiles": [
     "Front-End Web Developer Ecosystem Map.md",
     "Mini Course/What we can build.md",
